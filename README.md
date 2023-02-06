@@ -1,8 +1,8 @@
 # FBI-BJS Crime Data Analysis Project
 This project aims to analyze patterns of crime in the United States using publicly available data from the Federal Bureau of Investigation (FBI) and the Bureau of Justice Statistics (BJS). The project will be divided into 4 parts: Data Collection and Cleaning, Exploratory Analysis, Answering Questions, and Hypothesis Testing.
 
-# Part 1: Data Collection and Cleaning [17.5%]
-## 2.1 Data Collection [10%]
+# Part 1: Data Collection and Cleaning
+## 2.1 Data Collection
 National crime victimization survey (NCVS) data:
 Use the NCVS data API (available without an API key) to download as much of the personal crime victimization and personal population data as is available for all years (limit >= 1000000).
 Read the codebook carefully to understand the variables and their meanings.
